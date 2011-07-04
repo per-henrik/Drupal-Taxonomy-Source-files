@@ -1,0 +1,996 @@
+, 1, "A - AGRICULTURE,  FORESTRY AND FISHING","", 
+, 872, "O - PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY","", 
+, 905, "Q - HUMAN HEALTH AND SOCIAL WORK ACTIVITIES","", 
+, 930, "R - ARTS,  ENTERTAINMENT AND RECREATION","", 
+, 955, "S - OTHER SERVICE ACTIVITIES","", 
+, 57, "B - MINING AND QUARRYING","", 
+, 984, "T - ACTIVITIES OF HOUSEHOLDS AS EMPLOYERS; U0NDIFFERENTIATED GOODS- AND SERVICES-PRODUCING ACTIVITIES OF HOUSEHOLDS FOR OWN USE","", 
+, 993, "U - ACTIVITIES OF EXTRATERRITORIAL ORGANISATIONS AND BODIES","", 
+, 88, "C - MANUFACTURING","", 
+, 886, "P - EDUCATION","", 
+, 438, "D - ELECTRICITY,  GAS,  STEAM AND AIR CONDITIONING SUPPLY","", 
+, 451, "E - WATER SUPPLY; SEWERAGE,  WASTE MANAGEMENT AND REMEDIATION ACTIVITIES","", 
+, 684, "J - INFORMATION AND COMMUNICATION","", 
+, 666, "I - ACCOMMODATION AND FOOD SERVICE ACTIVITIES","", 
+, 730, "K - FINANCIAL AND INSURANCE ACTIVITIES","", 
+, 622, "H - TRANSPORTATION AND STORAGE","", 
+, 762, "L - REAL ESTATE ACTIVITIES","", 
+, 771, "M - PROFESSIONAL,  SCIENTIFIC AND TECHNICAL ACTIVITIES","", 
+, 506, "G - WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES","", 
+, 813, "N - ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES","", 
+, 471, "F - CONSTRUCTION","", 
+, 1019, "24 - Manufacture of basic metals","", 88
+, 1018, "23 - Manufacture of other non-metallic mineral products","", 88
+, 1017, "22 - Manufacture of rubber and plastic products","", 88
+, 1016, "21 - Manufacture of basic pharmaceutical products and pharmaceutical preparations","", 88
+, 1015, "20 - Manufacture of chemicals and chemical products","", 88
+, 1020, "25 - Manufacture of fabricated metal products,  except machinery and equipment","", 88
+, 1021, "26 - Manufacture of computer,  electronic and optical products","", 88
+, 1022, "27 - Manufacture of electrical equipment","", 88
+, 1023, "28 - Manufacture of machinery and equipment n.e.c.","", 88
+, 1024, "29 - Manufacture of motor vehicles,  trailers and semi-trailers","", 88
+, 1025, "30 - Manufacture of other transport equipment","", 88
+, 1026, "31 - Manufacture of furniture","", 88
+, 1027, "32 - Other manufacturing","", 88
+, 1028, "33 - Repair and installation of machinery and equipment","", 88
+, 1029, "35 - Electricity,  gas,  steam and air conditioning supply","", 438
+, 1014, "19 - Manufacture of coke and refined petroleum products","", 88
+, 1013, "18 - Printing and reproduction of recorded media","", 88
+, 1012, "17 - Manufacture of paper and paper products","", 88
+, 1010, "15 - Manufacture of leather and related products","", 88
+, 997, "01 - Crop and animal production,  hunting and related service activities","", 1
+, 998, "02 - Forestry and logging","", 1
+, 999, "03 - Fishing and aquaculture","", 1
+, 1000, "05 - Mining of coal and lignite","", 57
+, 1001, "06 - Extraction of crude petroleum and natural gas","", 57
+, 1002, "07 - Mining of metal ores","", 57
+, 1003, "08 - Other mining and quarrying","", 57
+, 1004, "09 - Mining support service activities","", 57
+, 1005, "10 - Manufacture of food products","", 88
+, 1006, "11 - Manufacture of beverages","", 88
+, 1007, "12 - Manufacture of tobacco products","", 88
+, 1008, "13 - Manufacture of textiles","", 88
+, 1009, "14 - Manufacture of wearing apparel","", 88
+, 1011, "16 - Manufacture of wood and of products of wood and cork,  except furniture; manufacture of articles of straw and plaiting materials","", 88
+, 1084, "99 - Activities of extraterritorial organisations and bodies","", 993
+, 1030, "36 - Water collection,  treatment and supply","", 451
+, 1079, "94 - Activities of membership organisations","", 955
+, 1082, "97 - Activities of households as employers of domestic personnel","", 984
+, 1066, "79 - Travel agency,  tour operator and other reservation service and related activities","", 813
+, 1083, "98 - Undifferentiated goods- and services-producing activities of private households for own use","", 984
+, 1065, "78 - Employment activities","", 813
+, 1077, "92 - Gambling and betting activities","", 930
+, 1064, "77 - Rental and leasing activities","", 813
+, 1063, "75 - Veterinary activities","", 771
+, 1062, "74 - Other professional,  scientific and technical activities","", 771
+, 1061, "73 - Advertising and market research","", 771
+, 1060, "72 - Scientific research and development ","", 771
+, 1059, "71 - Architectural and engineering activities; technical testing and analysis","", 771
+, 1067, "80 - Security and investigation activities","", 813
+, 1068, "81 - Services to buildings and landscape activities","", 813
+, 1076, "91 - Libraries,  archives,  museums and other cultural activities","", 930
+, 1072, "86 - Human health activities","", 905
+, 1078, "93 - Sports activities and amusement and recreation activities","", 930
+, 1071, "85 - Education","", 886
+, 1073, "87 - Residential care activities","", 905
+, 1080, "95 - Repair of computers and personal and household goods","", 955
+, 1081, "96 - Other personal service activities","", 955
+, 1074, "88 - Social work activities without accommodation","", 905
+, 1070, "84 - Public administration and defence; compulsory social security","", 872
+, 1069, "82 - Office administrative,  office support and other business support activities","", 813
+, 1075, "90 - Creative,  arts and entertainment activities","", 930
+, 1058, "70 - Activities of head offices; management consultancy activities","", 771
+, 1057, "69 - Legal and accounting activities","", 771
+, 1032, "38 - Waste collection,  treatment and disposal activities; materials recovery","", 451
+, 1043, "52 - Warehousing and support activities for transportation","", 622
+, 1042, "51 - Air transport","", 622
+, 1034, "41 - Construction of buildings","", 471
+, 1041, "50 - Water transport","", 622
+, 1040, "49 - Land transport and transport via pipelines","", 622
+, 1039, "47 - Retail trade,  except of motor vehicles and motorcycles","", 506
+, 1038, "46 - Wholesale trade,  except of motor vehicles and motorcycles","", 506
+, 1031, "37 - Sewerage","", 451
+, 1037, "45 - Wholesale and retail trade and repair of motor vehicles and motorcycles","", 506
+, 1036, "43 - Specialised construction activities","", 471
+, 1035, "42 - Civil engineering","", 471
+, 1033, "39 - Remediation activities and other waste management services","", 451
+, 1044, "53 - Postal and courier activities","", 622
+, 1048, "59 - Motion picture,  video and television programme production,  sound recording and music publishing activities","", 684
+, 1050, "61 - Telecommunications","", 684
+, 1051, "62 - Computer programming,  consultancy and related activities","", 684
+, 1052, "63 - Information service activities","", 684
+, 1053, "64 - Financial service activities,  except insurance and pension funding","", 730
+, 1054, "65 - Insurance,  reinsurance and pension funding,  except compulsory social security","", 730
+, 1049, "60 - Programming and broadcasting activities","", 684
+, 1047, "58 - Publishing activities","", 684
+, 1046, "56 - Food and beverage service activities","", 666
+, 1055, "66 - Activities auxiliary to financial services and insurance activities","", 730
+, 1045, "55 - Accommodation","", 666
+, 1056, "68 - Real estate activities","", 762
+, 565, "46.7 - Other specialised wholesale","", 1038
+, 557, "46.6 - Wholesale of other machinery,  equipment and supplies","", 1038
+, 576, "47.1 - Retail sale in non-specialised stores","", 1039
+, 513, "45.3 - Sale of motor vehicle parts and accessories","", 1037
+, 503, "43.9 - Other specialised construction activities","", 1036
+, 573, "46.9 - Non-specialised wholesale trade","", 1038
+, 508, "45.1 - Sale of motor vehicles","", 1037
+, 511, "45.2 - Maintenance and repair of motor vehicles","", 1037
+, 497, "43.3 - Building completion and finishing","", 1036
+, 516, "45.4 - Sale,  maintenance and repair of motorcycles and related parts and accessories","", 1037
+, 519, "46.1 - Wholesale on a fee or contract basis","", 1038
+, 529, "46.2 - Wholesale of agricultural raw materials and live animals","", 1038
+, 493, "43.2 - Electrical,  plumbing and other construction installation activities","", 1036
+, 534, "46.3 - Wholesale of food,  beverages and tobacco","", 1038
+, 672, "55.3 - Camping grounds,  recreational vehicle parks and trailer parks","", 1045
+, 554, "46.5 - Wholesale of information and communication equipment","", 1038
+, 579, "47.2 - Retail sale of food,  beverages and tobacco in specialised stores","", 1039
+, 587, "47.3 - Retail sale of automotive fuel in specialised stores","", 1039
+, 640, "50.2 - Sea and coastal freight water transport","", 1041
+, 642, "50.3 - Inland passenger water transport","", 1041
+, 644, "50.4 - Inland freight water transport","", 1041
+, 647, "51.1 - Passenger air transport","", 1042
+, 649, "51.2 - Freight air transport and space transport","", 1042
+, 653, "52.1 - Warehousing and storage","", 1043
+, 655, "52.2 - Support activities for transportation","", 1043
+, 662, "53.1 - Postal activities under universal service obligation","", 1044
+, 664, "53.2 - Other postal and courier activities","", 1044
+, 668, "55.1 - Hotels and similar accommodation","", 1045
+, 638, "50.1 - Sea and coastal passenger water transport","", 1041
+, 635, "49.5 - Transport via pipeline","", 1040
+, 632, "49.4 - Freight transport by road and removal services","", 1040
+, 589, "47.4 - Retail sale of information and communication equipment in specialised stores","", 1039
+, 593, "47.5 - Retail sale of other household equipment in specialised stores","", 1039
+, 599, "47.6 - Retail sale of cultural and recreation goods in specialised stores","", 1039
+, 605, "47.7 - Retail sale of other goods in specialised stores","", 1039
+, 615, "47.8 - Retail sale via stalls and markets","", 1039
+, 619, "47.9 - Retail trade not in stores,  stalls or markets","", 1039
+, 624, "49.1 - Passenger rail transport,  interurban","", 1040
+, 544, "46.4 - Wholesale of household goods","", 1038
+, 626, "49.2 - Freight rail transport","", 1040
+, 628, "49.3 - Other passenger land transport ","", 1040
+, 670, "55.2 - Holiday and other short-stay accommodation","", 1045
+, 325, "26.3 - Manufacture of communication equipment","", 1021
+, 369, "28.3 - Manufacture of agricultural and forestry machinery","", 1023
+, 371, "28.4 - Manufacture of metal forming machinery and machine tools","", 1023
+, 374, "28.9 - Manufacture of other special-purpose machinery","", 1023
+, 383, "29.1 - Manufacture of motor vehicles","", 1024
+, 385, "29.2 - Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers","", 1024
+, 387, "29.3 - Manufacture of parts and accessories for motor vehicles","", 1024
+, 391, "30.1 - Building of ships and boats","", 1025
+, 394, "30.2 - Manufacture of railway locomotives and rolling stock","", 1025
+, 396, "30.3 - Manufacture of air and spacecraft and related machinery","", 1025
+, 398, "30.4 - Manufacture of military fighting vehicles","", 1025
+, 362, "28.2 - Manufacture of other general-purpose machinery","", 1023
+, 356, "28.1 - Manufacture of general-purpose machinery","", 1023
+, 327, "26.4 - Manufacture of consumer electronics","", 1021
+, 329, "26.5 - Manufacture of instruments and appliances for measuring,  testing and navigation; watches and clocks","", 1021
+, 332, "26.6 - Manufacture of irradiation,  electromedical and electrotherapeutic equipment","", 1021
+, 334, "26.7 - Manufacture of optical instruments and photographic equipment","", 1021
+, 336, "26.8 - Manufacture of magnetic and optical media","", 1021
+, 339, "27.1 - Manufacture of electric motors,  generators,  transformers and electricity distribution and control apparatus","", 1022
+, 342, "27.2 - Manufacture of batteries and accumulators","", 1022
+, 348, "27.4 - Manufacture of electric lighting equipment","", 1022
+, 350, "27.5 - Manufacture of domestic appliances","", 1022
+, 353, "27.9 - Manufacture of other electrical equipment","", 1022
+, 400, "30.9 - Manufacture of transport equipment n.e.c.","", 1025
+, 405, "31.0 - Manufacture of furniture","", 1026
+, 411, "32.1 - Manufacture of jewellery,  bijouterie and related articles","", 1027
+, 456, "37.0 - Sewerage","", 1031
+, 459, "38.1 - Waste collection","", 1032
+, 462, "38.2 - Waste treatment and disposal","", 1032
+, 465, "38.3 - Materials recovery","", 1032
+, 469, "39.0 - Remediation activities and other waste management services","", 1033
+, 473, "41.1 - Development of building projects","", 1034
+, 475, "41.2 - Construction of residential and non-residential buildings","", 1034
+, 478, "42.1 - Construction of roads and railways","", 1035
+, 482, "42.2 - Construction of utility projects","", 1035
+, 485, "42.9 - Construction of other civil engineering projects","", 1035
+, 453, "36.0 - Water collection,  treatment and supply","", 1030
+, 449, "35.3 - Steam and air conditioning supply","", 1029
+, 415, "32.2 - Manufacture of musical instruments","", 1027
+, 417, "32.3 - Manufacture of sports goods","", 1027
+, 344, "27.3 - Manufacture of wiring and wiring devices","", 1022
+, 419, "32.4 - Manufacture of games and toys","", 1027
+, 421, "32.5 - Manufacture of medical and dental instruments and supplies","", 1027
+, 423, "32.9 - Manufacturing n.e.c.","", 1027
+, 427, "33.1 - Repair of fabricated metal products,  machinery and equipment","", 1028
+, 436, "33.2 - Installation of industrial machinery and equipment","", 1028
+, 440, "35.1 - Electric power generation,  transmission and distribution","", 1029
+, 445, "35.2 - Manufacture of gas; distribution of gaseous fuels through mains","", 1029
+, 489, "43.1 - Demolition and site preparation","", 1036
+, 829, "77.4 - Leasing of intellectual property and similar products,  except copyrighted works","", 1064
+, 864, "82.2 - Activities of call centres","", 1069
+, 866, "82.3 - Organisation of conventions and trade shows","", 1069
+, 868, "82.9 - Business support service activities n.e.c.","", 1069
+, 874, "84.1 - Administration of the State and the economic and social policy of the community","", 1070
+, 878, "84.2 - Provision of services to the community as a whole","", 1070
+, 884, "84.3 - Compulsory social security activities","", 1070
+, 888, "85.1 - Pre-primary education","", 1071
+, 890, "85.2 - Primary education","", 1071
+, 892, "85.3 - Secondary education","", 1071
+, 895, "85.4 - Higher education","", 1071
+, 861, "82.1 - Office administrative and support activities","", 1069
+, 858, "81.3 - Landscape service activities","", 1068
+, 832, "78.1 - Activities of employment placement agencies","", 1065
+, 834, "78.2 - Temporary employment agency activities","", 1065
+, 836, "78.3 - Other human resources provision","", 1065
+, 839, "79.1 - Travel agency and tour operator activities","", 1066
+, 842, "79.9 - Other reservation service and related activities","", 1066
+, 845, "80.1 - Private security activities","", 1067
+, 847, "80.2 - Security systems service activities","", 1067
+, 849, "80.3 - Investigation activities","", 1067
+, 852, "81.1 - Combined facilities support activities","", 1068
+, 854, "81.2 - Cleaning activities","", 1068
+, 898, "85.5 - Other education","", 1071
+, 903, "85.6 - Educational support activities","", 1071
+, 952, "93.2 - Amusement and recreation activities","", 1078
+, 957, "94.1 - Activities of business,  employers and professional membership organisations","", 1079
+, 960, "94.2 - Activities of trade unions","", 1079
+, 962, "94.9 - Activities of other membership organisations","", 1079
+, 967, "95.1 - Repair of computers and communication equipment","", 1080
+, 970, "95.2 - Repair of personal and household goods","", 1080
+, 978, "96.0 - Other personal service activities","", 1081
+, 986, "97.0 - Activities of households as employers of domestic personnel","", 1082
+, 989, "98.1 - Undifferentiated goods-producing activities of private households for own use","", 1083
+, 991, "98.2 - Undifferentiated service-producing activities of private households for own use","", 1083
+, 947, "93.1 - Sports activities","", 1078
+, 944, "92.0 - Gambling and betting activities","", 1077
+, 907, "86.1 - Hospital activities","", 1072
+, 909, "86.2 - Medical and dental practice activities","", 1072
+, 913, "86.9 - Other human health activities","", 1072
+, 916, "87.1 - Residential nursing care activities","", 1073
+, 918, "87.2 - Residential care activities for mental retardation,  mental health and substance abuse","", 1073
+, 920, "87.3 - Residential care activities for the elderly and disabled","", 1073
+, 925, "88.1 - Social work activities without accommodation for the elderly and disabled","", 1074
+, 927, "88.9 - Other social work activities without accommodation","", 1074
+, 932, "90.0 - Creative,  arts and entertainment activities","", 1075
+, 938, "91.0 - Libraries,  archives,  museums and other cultural activities","", 1076
+, 995, "99.0 - Activities of extraterritorial organisations and bodies","", 1084
+, 822, "77.3 - Rental and leasing of other machinery,  equipment and tangible goods","", 1064
+, 674, "55.9 - Other accommodation","", 1045
+, 715, "61.9 - Other telecommunications activities","", 1050
+, 718, "62.0 - Computer programming,  consultancy and related activities","", 1051
+, 724, "63.1 - Data processing,  hosting and related activities; web portals","", 1052
+, 727, "63.9 - Other information service activities","", 1052
+, 732, "64.1 - Monetary intermediation","", 1053
+, 735, "64.2 - Activities of holding companies","", 1053
+, 737, "64.3 - Trusts,  funds and similar financial entities","", 1053
+, 739, "64.9 - Other financial service activities,  except insurance and pension funding","", 1053
+, 744, "65.1 - Insurance","", 1054
+, 747, "65.2 - Reinsurance","", 1054
+, 713, "61.3 - Satellite telecommunications activities","", 1050
+, 711, "61.2 - Wireless telecommunications activities","", 1050
+, 677, "56.1 - Restaurants and mobile food service activities","", 1046
+, 679, "56.2 - Event catering and other food service activities","", 1046
+, 682, "56.3 - Beverage serving activities","", 1046
+, 686, "58.1 - Publishing of books,  periodicals and other publishing activities","", 1047
+, 692, "58.2 - Software publishing","", 1047
+, 696, "59.1 - Motion picture,  video and television programme activities","", 1048
+, 701, "59.2 - Sound recording and music publishing activities","", 1048
+, 704, "60.1 - Radio broadcasting","", 1049
+, 706, "60.2 - Television programming and broadcasting activities","", 1049
+, 709, "61.1 - Wired telecommunications activities","", 1050
+, 749, "65.3 - Pension funding","", 1054
+, 752, "66.1 - Activities auxiliary to financial services,  except insurance and pension funding","", 1055
+, 793, "72.2 - Research and experimental development on social sciences and humanities","", 1060
+, 796, "73.1 - Advertising","", 1061
+, 799, "73.2 - Market research and public opinion polling","", 1061
+, 802, "74.1 - Specialised design activities","", 1062
+, 804, "74.2 - Photographic activities","", 1062
+, 806, "74.3 - Translation and interpretation activities","", 1062
+, 808, "74.9 - Other professional,  scientific and technical activities n.e.c.","", 1062
+, 811, "75.0 - Veterinary activities","", 1063
+, 815, "77.1 - Rental and leasing of motor vehicles","", 1064
+, 922, "87.9 - Other residential care activities","", 1073
+, 790, "72.1 - Research and experimental development on natural sciences and engineering","", 1060
+, 787, "71.2 - Technical testing and analysis","", 1059
+, 756, "66.2 - Activities auxiliary to insurance and pension funding","", 1055
+, 760, "66.3 - Fund management activities","", 1055
+, 764, "68.1 - Buying and selling of own real estate","", 1056
+, 766, "68.2 - Rental and operating of own or leased real estate","", 1056
+, 768, "68.3 - Real estate activities on a fee or contract basis","", 1056
+, 773, "69.1 - Legal activities","", 1057
+, 775, "69.2 - Accounting,  bookkeeping and auditing activities; tax consultancy","", 1057
+, 778, "70.1 - Activities of head offices","", 1058
+, 780, "70.2 - Management consultancy activities","", 1058
+, 784, "71.1 - Architectural and engineering activities and related technical consultancy","", 1059
+, 818, "77.2 - Rental and leasing of personal and household goods","", 1064
+, 323, "26.2 - Manufacture of computers and peripheral equipment","", 1021
+, 250, "23.4 - Manufacture of other porcelain and ceramic products","", 1018
+, 125, "11.0 - Manufacture of beverages","", 1006
+, 297, "25.2 - Manufacture of tanks,  reservoirs and containers of metal","", 1020
+, 152, "14.1 - Manufacture of wearing apparel,  except fur apparel","", 1009
+, 75, "08.1 - Quarrying of stone,  sand and clay","", 1003
+, 225, "21.1 - Manufacture of basic pharmaceutical products","", 1016
+, 78, "08.9 - Mining and quarrying n.e.c.","", 1003
+, 103, "10.5 - Manufacture of dairy products","", 1005
+, 84, "09.1 - Support activities for petroleum and natural gas extraction","", 1004
+, 121, "10.9 - Manufacture of prepared animal feeds","", 1005
+, 86, "09.9 - Support activities for other mining and quarrying","", 1004
+, 294, "25.1 - Manufacture of structural metal products","", 1020
+, 71, "07.2 - Mining of non-ferrous metal ores","", 1002
+, 222, "20.6 - Manufacture of man-made fibres","", 1015
+, 54, "03.2 - Aquaculture","", 999
+, 259, "23.6 - Manufacture of articles of concrete,  cement and plaster","", 1018
+, 304, "25.5 - Forging,  pressing,  stamping and roll-forming of metal; powder metallurgy","", 1020
+, 59, "05.1 - Mining of hard coal","", 1000
+, 302, "25.4 - Manufacture of weapons and ammunition","", 1020
+, 61, "05.2 - Mining of lignite","", 1000
+, 189, "18.1 - Printing and service activities related to printing","", 1013
+, 64, "06.1 - Extraction of crude petroleum","", 1001
+, 66, "06.2 - Extraction of natural gas","", 1001
+, 300, "25.3 - Manufacture of steam generators,  except central heating hot water boilers","", 1020
+, 69, "07.1 - Mining of iron ores","", 1002
+, 182, "17.2 - Manufacture of articles of paper and paperboard ","", 1012
+, 90, "10.1 - Processing and preserving of meat and production of meat products","", 1005
+, 268, "23.9 - Manufacture of abrasive products and non-metallic mineral products n.e.c.","", 1018
+, 106, "10.6 - Manufacture of grain mill products,  starches and starch products","", 1005
+, 239, "23.1 - Manufacture of glass and glass products","", 1018
+, 281, "24.4 - Manufacture of basic precious and other non-ferrous metals","", 1019
+, 160, "14.3 - Manufacture of knitted and crocheted apparel","", 1009
+, 170, "16.1 - Sawmilling and planing of wood","", 1011
+, 272, "24.1 - Manufacture of basic iron and steel and of ferro-alloys","", 1019
+, 109, "10.7 - Manufacture of bakery and farinaceous products","", 1005
+, 167, "15.2 - Manufacture of footwear","", 1010
+, 113, "10.8 - Manufacture of other food products","", 1005
+, 276, "24.3 - Manufacture of other products of first processing of steel","", 1019
+, 245, "23.2 - Manufacture of refractory products","", 1018
+, 158, "14.2 - Manufacture of articles of fur","", 1009
+, 227, "21.2 - Manufacture of pharmaceutical preparations","", 1016
+, 94, "10.2 - Processing and preserving of fish,  crustaceans and molluscs","", 1005
+, 96, "10.3 - Processing and preserving of fruit and vegetables","", 1005
+, 247, "23.3 - Manufacture of clay building materials","", 1018
+, 288, "24.5 - Casting of metals","", 1019
+, 230, "22.1 - Manufacture of rubber products","", 1017
+, 179, "17.1 - Manufacture of pulp,  paper and paperboard","", 1012
+, 100, "10.4 - Manufacture of vegetable and animal oils and fats","", 1005
+, 164, "15.1 - Tanning and dressing of leather; manufacture of luggage,  handbags,  saddlery and harness; dressing and dyeing of fur","", 1010
+, 266, "23.7 - Cutting,  shaping and finishing of stone","", 1018
+, 233, "22.2 - Manufacture of plastic products","", 1017
+, 274, "24.2 - Manufacture of tubes,  pipes,  hollow profiles and related fittings,  of steel","", 1019
+, 44, "02.2 - Logging","", 998
+, 134, "12.0 - Manufacture of tobacco products","", 1007
+, 214, "20.4 - Manufacture of soap and detergents,  cleaning and polishing preparations,  perfumes and toilet preparations","", 1015
+, 21, "01.3 - Plant propagation","", 997
+, 34, "01.6 - Support activities to agriculture and post-harvest crop activities","", 997
+, 139, "13.2 - Weaving of textiles","", 1008
+, 32, "01.5 - Mixed farming","", 997
+, 194, "18.2 - Reproduction of recorded media","", 1013
+, 137, "13.1 - Preparation and spinning of textile fibres","", 1008
+, 141, "13.3 - Finishing of textiles","", 1008
+, 202, "20.1 - Manufacture of basic chemicals,  fertilisers and nitrogen compounds,  plastics and synthetic rubber in primary forms","", 1015
+, 309, "25.7 - Manufacture of cutlery,  tools and general hardware","", 1020
+, 23, "01.4 - Animal production","", 997
+, 11, "01.2 - Growing of perennial crops","", 997
+, 197, "19.1 - Manufacture of coke oven products","", 1014
+, 143, "13.9 - Manufacture of other textiles","", 1008
+, 313, "25.9 - Manufacture of other fabricated metal products","", 1020
+, 39, "01.7 - Hunting,  trapping and related service activities","", 997
+, 51, "03.1 - Fishing","", 999
+, 48, "02.4 - Support services to forestry","", 998
+, 306, "25.6 - Treatment and coating of metals; machining","", 1020
+, 3, "01.1 - Growing of non-perennial crops","", 997
+, 46, "02.3 - Gathering of wild growing non-wood products","", 998
+, 210, "20.2 - Manufacture of pesticides and other agrochemical products","", 1015
+, 217, "20.5 - Manufacture of other chemical products","", 1015
+, 256, "23.5 - Manufacture of cement,  lime and plaster","", 1018
+, 199, "19.2 - Manufacture of refined petroleum products","", 1014
+, 320, "26.1 - Manufacture of electronic components and boards","", 1021
+, 42, "02.1 - Silviculture and other forestry activities","", 998
+, 172, "16.2 - Manufacture of products of wood,  cork,  straw and plaiting materials","", 1011
+, 212, "20.3 - Manufacture of paints,  varnishes and similar coatings,  printing ink and mastics","", 1015
+, 828, "77.39 - Rental and leasing of other machinery,  equipment and tangible goods n.e.c.","", 822
+, 827, "77.35 - Rental and leasing of air transport equipment","", 822
+, 830, "77.40 - Leasing of intellectual property and similar products,  except copyrighted works","", 829
+, 142, "13.30 - Finishing of textiles","", 141
+, 159, "14.20 - Manufacture of articles of fur","", 158
+, 826, "77.34 - Rental and leasing of water transport equipment","", 822
+, 825, "77.33 - Rental and leasing of office machinery and equipment (including computers)","", 822
+, 162, "14.39 - Manufacture of other knitted and crocheted apparel","", 160
+, 817, "77.12 - Rental and leasing of trucks","", 815
+, 879, "84.21 - Foreign affairs","", 878
+, 140, "13.20 - Weaving of textiles","", 139
+, 877, "84.13 - Regulation of and contribution to more efficient operation of businesses","", 874
+, 161, "14.31 - Manufacture of knitted and crocheted hosiery","", 160
+, 819, "77.21 - Rental and leasing of recreational and sports goods","", 818
+, 876, "84.12 - Regulation of the activities of providing health care,  education,  cultural services and other social services,  excluding social secu","", 874
+, 821, "77.29 - Rental and leasing of other personal and household goods","", 818
+, 875, "84.11 - General public administration activities","", 874
+, 871, "82.99 - Other business support service activities n.e.c.","", 868
+, 823, "77.31 - Rental and leasing of agricultural machinery and equipment","", 822
+, 824, "77.32 - Rental and leasing of construction and civil engineering machinery and equipment","", 822
+, 820, "77.22 - Rental of video tapes and disks","", 818
+, 835, "78.20 - Temporary employment agency activities","", 834
+, 833, "78.10 - Activities of employment placement agencies","", 832
+, 863, "82.19 - Photocopying,  document preparation and other specialised office support activities","", 861
+, 862, "82.11 - Combined office administrative service activities","", 861
+, 146, "13.93 - Manufacture of carpets and rugs","", 143
+, 859, "81.30 - Landscape service activities","", 858
+, 848, "80.20 - Security systems service activities","", 847
+, 147, "13.94 - Manufacture of cordage,  rope,  twine and netting","", 143
+, 150, "13.99 - Manufacture of other textiles n.e.c.","", 143
+, 857, "81.29 - Other cleaning activities","", 854
+, 853, "81.10 - Combined facilities support activities","", 852
+, 856, "81.22 - Other building and industrial cleaning activities","", 854
+, 850, "80.30 - Investigation activities","", 849
+, 149, "13.96 - Manufacture of other technical and industrial textiles","", 143
+, 855, "81.21 - General cleaning of buildings","", 854
+, 846, "80.10 - Private security activities","", 845
+, 145, "13.92 - Manufacture of made-up textile articles,  except apparel","", 143
+, 153, "14.11 - Manufacture of leather clothes","", 152
+, 157, "14.19 - Manufacture of other wearing apparel and accessories","", 152
+, 156, "14.14 - Manufacture of underwear","", 152
+, 870, "82.92 - Packaging activities","", 868
+, 837, "78.30 - Other human resources provision","", 836
+, 144, "13.91 - Manufacture of knitted and crocheted fabrics","", 143
+, 869, "82.91 - Activities of collection agencies and credit bureaus","", 868
+, 155, "14.13 - Manufacture of other outerwear","", 152
+, 840, "79.11 - Travel agency activities","", 839
+, 841, "79.12 - Tour operator activities","", 839
+, 867, "82.30 - Organisation of conventions and trade shows","", 866
+, 865, "82.20 - Activities of call centres","", 864
+, 154, "14.12 - Manufacture of workwear","", 152
+, 843, "79.90 - Other reservation service and related activities","", 842
+, 148, "13.95 - Manufacture of non-wovens and articles made from non-wovens,  except apparel","", 143
+, 719, "62.01 - Computer programming activities","", 718
+, 745, "65.11 - Life insurance","", 744
+, 746, "65.12 - Non-life insurance","", 744
+, 193, "18.14 - Binding and related services","", 189
+, 748, "65.20 - Reinsurance","", 747
+, 192, "18.13 - Pre-press and pre-media services","", 189
+, 750, "65.30 - Pension funding","", 749
+, 191, "18.12 - Other printing","", 189
+, 753, "66.11 - Administration of financial markets","", 752
+, 754, "66.12 - Security and commodity contracts brokerage","", 752
+, 755, "66.19 - Other activities auxiliary to financial services,  except insurance and pension funding","", 752
+, 190, "18.11 - Printing of newspapers","", 189
+, 757, "66.21 - Risk and damage evaluation","", 756
+, 758, "66.22 - Activities of insurance agents and brokers","", 756
+, 759, "66.29 - Other activities auxiliary to insurance and pension funding","", 756
+, 761, "66.30 - Fund management activities","", 760
+, 187, "17.29 - Manufacture of other articles of paper and paperboard","", 182
+, 742, "64.99 - Other financial service activities,  except insurance and pension funding n.e.c.","", 739
+, 741, "64.92 - Other credit granting","", 739
+, 720, "62.02 - Computer consultancy activities","", 718
+, 721, "62.03 - Computer facilities management activities","", 718
+, 722, "62.09 - Other information technology and computer service activities","", 718
+, 203, "20.11 - Manufacture of industrial gases","", 202
+, 725, "63.11 - Data processing,  hosting and related activities","", 724
+, 726, "63.12 - Web portals","", 724
+, 728, "63.91 - News agency activities","", 727
+, 729, "63.99 - Other information service activities n.e.c.","", 727
+, 200, "19.20 - Manufacture of refined petroleum products","", 199
+, 733, "64.11 - Central banking","", 732
+, 734, "64.19 - Other monetary intermediation","", 732
+, 198, "19.10 - Manufacture of coke oven products","", 197
+, 736, "64.20 - Activities of holding companies","", 735
+, 738, "64.30 - Trusts,  funds and similar financial entities","", 737
+, 195, "18.20 - Reproduction of recorded media","", 194
+, 740, "64.91 - Financial leasing","", 739
+, 186, "17.24 - Manufacture of wallpaper","", 182
+, 765, "68.10 - Buying and selling of own real estate","", 764
+, 185, "17.23 - Manufacture of paper stationery","", 182
+, 791, "72.11 - Research and experimental development on biotechnology","", 790
+, 792, "72.19 - Other research and experimental development on natural sciences and engineering","", 790
+, 174, "16.22 - Manufacture of assembled parquet floors","", 172
+, 794, "72.20 - Research and experimental development on social sciences and humanities","", 793
+, 173, "16.21 - Manufacture of veneer sheets and wood-based panels","", 172
+, 797, "73.11 - Advertising agencies","", 796
+, 798, "73.12 - Media representation","", 796
+, 800, "73.20 - Market research and public opinion polling","", 799
+, 171, "16.10 - Sawmilling and planing of wood","", 170
+, 803, "74.10 - Specialised design activities","", 802
+, 805, "74.20 - Photographic activities","", 804
+, 168, "15.20 - Manufacture of footwear","", 167
+, 807, "74.30 - Translation and interpretation activities","", 806
+, 809, "74.90 - Other professional,  scientific and technical activities n.e.c.","", 808
+, 166, "15.12 - Manufacture of luggage,  handbags and the like,  saddlery and harness","", 164
+, 812, "75.00 - Veterinary activities","", 811
+, 175, "16.23 - Manufacture of other builders' carpentry and joinery","", 172
+, 788, "71.20 - Technical testing and analysis","", 787
+, 184, "17.22 - Manufacture of household and sanitary goods and of toilet requisites","", 182
+, 769, "68.31 - Real estate agencies","", 768
+, 770, "68.32 - Management of real estate on a fee or contract basis","", 768
+, 183, "17.21 - Manufacture of corrugated paper and paperboard and of containers of paper and paperboard","", 182
+, 774, "69.10 - Legal activities","", 773
+, 181, "17.12 - Manufacture of paper and paperboard","", 179
+, 776, "69.20 - Accounting,  bookkeeping and auditing activities; tax consultancy","", 775
+, 180, "17.11 - Manufacture of pulp","", 179
+, 779, "70.10 - Activities of head offices","", 778
+, 781, "70.21 - Public relations and communication activities","", 780
+, 782, "70.22 - Business and other management consultancy activities","", 780
+, 177, "16.29 - Manufacture of other products of wood; manufacture of articles of cork,  straw and plaiting materials","", 172
+, 785, "71.11 - Architectural activities ","", 784
+, 767, "68.20 - Rental and operating of own or leased real estate","", 766
+, 786, "71.12 - Engineering activities and related technical consultancy","", 784
+, 176, "16.24 - Manufacture of wooden containers","", 172
+, 165, "15.11 - Tanning and dressing of leather; dressing and dyeing of fur","", 164
+, 975, "95.25 - Repair of watches,  clocks and jewellery","", 970
+, 92, "10.12 - Processing and preserving of poultry meat","", 90
+, 91, "10.11 - Processing and preserving of meat","", 90
+, 87, "09.90 - Support activities for other mining and quarrying","", 86
+, 85, "09.10 - Support activities for petroleum and natural gas extraction","", 84
+, 82, "08.99 - Other mining and quarrying n.e.c.","", 78
+, 81, "08.93 - Extraction of salt","", 78
+, 80, "08.92 - Extraction of peat","", 78
+, 79, "08.91 - Mining of chemical and fertiliser minerals","", 78
+, 77, "08.12 - Operation of gravel and sand pits; mining of clays and kaolin","", 75
+, 76, "08.11 - Quarrying of ornamental and building stone,  limestone,  gypsum,  chalk and slate","", 75
+, 73, "07.29 - Mining of other non-ferrous metal ores","", 71
+, 72, "07.21 - Mining of uranium and thorium ores","", 71
+, 70, "07.10 - Mining of iron ores","", 69
+, 67, "06.20 - Extraction of natural gas","", 66
+, 65, "06.10 - Extraction of crude petroleum","", 64
+, 62, "05.20 - Mining of lignite","", 61
+, 60, "05.10 - Mining of hard coal","", 59
+, 93, "10.13 - Production of meat and poultry meat products","", 90
+, 95, "10.20 - Processing and preserving of fish,  crustaceans and molluscs","", 94
+, 976, "95.29 - Repair of other personal and household goods","", 970
+, 979, "96.01 - Washing and (dry-)cleaning of textile and fur products","", 978
+, 980, "96.02 - Hairdressing and other beauty treatment","", 978
+, 981, "96.03 - Funeral and related activities","", 978
+, 982, "96.04 - Physical well-being activities","", 978
+, 983, "96.09 - Other personal service activities n.e.c.","", 978
+, 105, "10.52 - Manufacture of ice cream","", 103
+, 104, "10.51 - Operation of dairies and cheese making","", 103
+, 987, "97.00 - Activities of households as employers of domestic personnel","", 986
+, 990, "98.10 - Undifferentiated goods-producing activities of private households for own use","", 989
+, 102, "10.42 - Manufacture of margarine and similar edible fats","", 100
+, 992, "98.20 - Undifferentiated service-producing activities of private households for own use","", 991
+, 101, "10.41 - Manufacture of oils and fats","", 100
+, 996, "99.00 - Activities of extraterritorial organisations and bodies","", 995
+, 99, "10.39 - Other processing and preserving of fruit and vegetables","", 96
+, 98, "10.32 - Manufacture of fruit and vegetable juice","", 96
+, 97, "10.31 - Processing and preserving of potatoes","", 96
+, 56, "03.22 - Freshwater aquaculture","", 54
+, 55, "03.21 - Marine aquaculture","", 54
+, 53, "03.12 - Freshwater fishing","", 51
+, 24, "01.41 - Raising of dairy cattle","", 23
+, 22, "01.30 - Plant propagation","", 21
+, 20, "01.29 - Growing of other perennial crops","", 11
+, 19, "01.28 - Growing of spices,  aromatic,  drug and pharmaceutical crops","", 11
+, 18, "01.27 - Growing of beverage crops","", 11
+, 17, "01.26 - Growing of oleaginous fruits","", 11
+, 16, "01.25 - Growing of other tree and bush fruits and nuts","", 11
+, 15, "01.24 - Growing of pome fruits and stone fruits","", 11
+, 14, "01.23 - Growing of citrus fruits","", 11
+, 13, "01.22 - Growing of tropical and subtropical fruits","", 11
+, 12, "01.21 - Growing of grapes","", 11
+, 10, "01.19 - Growing of other non-perennial crops","", 3
+, 9, "01.16 - Growing of fibre crops","", 3
+, 8, "01.15 - Growing of tobacco","", 3
+, 7, "01.14 - Growing of sugar cane","", 3
+, 6, "01.13 - Growing of vegetables and melons,  roots and tubers","", 3
+, 5, "01.12 - Growing of rice","", 3
+, 25, "01.42 - Raising of other cattle and buffaloes","", 23
+, 26, "01.43 - Raising of horses and other equines","", 23
+, 52, "03.11 - Marine fishing","", 51
+, 49, "02.40 - Support services to forestry","", 48
+, 47, "02.30 - Gathering of wild growing non-wood products","", 46
+, 45, "02.20 - Logging","", 44
+, 816, "77.11 - Rental and leasing of cars and light motor vehicles","", 815
+, 43, "02.10 - Silviculture and other forestry activities","", 42
+, 40, "01.70 - Hunting,  trapping and related service activities","", 39
+, 38, "01.64 - Seed processing for propagation","", 34
+, 37, "01.63 - Post-harvest crop activities","", 34
+, 36, "01.62 - Support activities for animal production","", 34
+, 35, "01.61 - Support activities for crop production","", 34
+, 33, "01.50 - Mixed farming","", 32
+, 31, "01.49 - Raising of other animals","", 23
+, 30, "01.47 - Raising of poultry","", 23
+, 29, "01.46 - Raising of swine/pigs","", 23
+, 28, "01.45 - Raising of sheep and goats","", 23
+, 27, "01.44 - Raising of camels and camelids","", 23
+, 4, "01.11 - Growing of cereals (except rice),  leguminous crops and oil seeds","", 3
+, 974, "95.24 - Repair of furniture and home furnishings","", 970
+, 880, "84.22 - Defence activities","", 878
+, 904, "85.60 - Educational support activities","", 903
+, 129, "11.04 - Manufacture of other non-distilled fermented beverages","", 125
+, 128, "11.03 - Manufacture of cider and other fruit wines","", 125
+, 908, "86.10 - Hospital activities","", 907
+, 127, "11.02 - Manufacture of wine from grape","", 125
+, 910, "86.21 - General medical practice activities","", 909
+, 911, "86.22 - Specialist medical practice activities","", 909
+, 912, "86.23 - Dental practice activities","", 909
+, 126, "11.01 - Distilling,  rectifying and blending of spirits","", 125
+, 914, "86.90 - Other human health activities","", 913
+, 917, "87.10 - Residential nursing care activities","", 916
+, 123, "10.92 - Manufacture of prepared pet foods","", 121
+, 919, "87.20 - Residential care activities for mental retardation,  mental health and substance abuse","", 918
+, 122, "10.91 - Manufacture of prepared feeds for farm animals","", 121
+, 921, "87.30 - Residential care activities for the elderly and disabled","", 920
+, 923, "87.90 - Other residential care activities","", 922
+, 120, "10.89 - Manufacture of other food products n.e.c.","", 113
+, 130, "11.05 - Manufacture of beer","", 125
+, 902, "85.59 - Other education n.e.c.","", 898
+, 881, "84.23 - Justice and judicial activities","", 878
+, 882, "84.24 - Public order and safety activities","", 878
+, 883, "84.25 - Fire service activities","", 878
+, 885, "84.30 - Compulsory social security activities","", 884
+, 138, "13.10 - Preparation and spinning of textile fibres","", 137
+, 889, "85.10 - Pre-primary education ","", 888
+, 135, "12.00 - Manufacture of tobacco products","", 134
+, 891, "85.20 - Primary education ","", 890
+, 893, "85.31 - General secondary education ","", 892
+, 894, "85.32 - Technical and vocational secondary education ","", 892
+, 132, "11.07 - Manufacture of soft drinks; production of mineral waters and other bottled waters","", 125
+, 896, "85.41 - Post-secondary non-tertiary education","", 895
+, 897, "85.42 - Tertiary education","", 895
+, 131, "11.06 - Manufacture of malt","", 125
+, 899, "85.51 - Sports and recreation education","", 898
+, 900, "85.52 - Cultural education","", 898
+, 901, "85.53 - Driving school activities","", 898
+, 926, "88.10 - Social work activities without accommodation for the elderly and disabled","", 925
+, 119, "10.86 - Manufacture of homogenised food preparations and dietetic food","", 113
+, 928, "88.91 - Child day-care activities","", 927
+, 953, "93.21 - Activities of amusement parks and theme parks","", 952
+, 954, "93.29 - Other amusement and recreation activities","", 952
+, 112, "10.73 - Manufacture of macaroni,  noodles,  couscous and similar farinaceous products","", 109
+, 111, "10.72 - Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes","", 109
+, 958, "94.11 - Activities of business and employers membership organisations","", 957
+, 959, "94.12 - Activities of professional membership organisations","", 957
+, 110, "10.71 - Manufacture of bread; manufacture of fresh pastry goods and cakes","", 109
+, 961, "94.20 - Activities of trade unions","", 960
+, 963, "94.91 - Activities of religious organisations","", 962
+, 964, "94.92 - Activities of political organisations","", 962
+, 965, "94.99 - Activities of other membership organisations n.e.c.","", 962
+, 108, "10.62 - Manufacture of starches and starch products","", 106
+, 968, "95.11 - Repair of computers and peripheral equipment","", 967
+, 969, "95.12 - Repair of communication equipment","", 967
+, 107, "10.61 - Manufacture of grain mill products","", 106
+, 971, "95.21 - Repair of consumer electronics","", 970
+, 972, "95.22 - Repair of household appliances and home and garden equipment","", 970
+, 951, "93.19 - Other sports activities","", 947
+, 950, "93.13 - Fitness facilities","", 947
+, 929, "88.99 - Other social work activities without accommodation n.e.c.","", 927
+, 118, "10.85 - Manufacture of prepared meals and dishes","", 113
+, 117, "10.84 - Manufacture of condiments and seasonings","", 113
+, 933, "90.01 - Performing arts","", 932
+, 934, "90.02 - Support activities to performing arts","", 932
+, 935, "90.03 - Artistic creation","", 932
+, 936, "90.04 - Operation of arts facilities","", 932
+, 116, "10.83 - Processing of tea and coffee","", 113
+, 939, "91.01 - Library and archives activities","", 938
+, 940, "91.02 - Museums activities","", 938
+, 941, "91.03 - Operation of historical sites and buildings and similar visitor attractions","", 938
+, 942, "91.04 - Botanical and zoological gardens and nature reserves activities","", 938
+, 115, "10.82 - Manufacture of cocoa,  chocolate and sugar confectionery","", 113
+, 945, "92.00 - Gambling and betting activities","", 944
+, 114, "10.81 - Manufacture of sugar","", 113
+, 948, "93.11 - Operation of sports facilities","", 947
+, 949, "93.12 - Activities of sports clubs","", 947
+, 973, "95.23 - Repair of footwear and leather goods","", 970
+, 204, "20.12 - Manufacture of dyes and pigments","", 202
+, 275, "24.20 - Manufacture of tubes,  pipes,  hollow profiles and related fittings,  of steel","", 274
+, 457, "37.00 - Sewerage","", 456
+, 280, "24.34 - Cold drawing of wire","", 276
+, 454, "36.00 - Water collection,  treatment and supply","", 453
+, 282, "24.41 - Precious metals production","", 281
+, 450, "35.30 - Steam and air conditioning supply","", 449
+, 283, "24.42 - Aluminium production","", 281
+, 448, "35.23 - Trade of gas through mains","", 445
+, 447, "35.22 - Distribution of gaseous fuels through mains","", 445
+, 279, "24.33 - Cold forming or folding","", 276
+, 460, "38.11 - Collection of non-hazardous waste","", 459
+, 470, "39.00 - Remediation activities and other waste management services","", 469
+, 467, "38.32 - Recovery of sorted materials","", 465
+, 466, "38.31 - Dismantling of wrecks","", 465
+, 277, "24.31 - Cold drawing of bars","", 276
+, 464, "38.22 - Treatment and disposal of hazardous waste","", 462
+, 463, "38.21 - Treatment and disposal of non-hazardous waste","", 462
+, 278, "24.32 - Cold rolling of narrow strip","", 276
+, 461, "38.12 - Collection of hazardous waste","", 459
+, 446, "35.21 - Manufacture of gas","", 445
+, 284, "24.43 - Lead,  zinc and tin production","", 281
+, 444, "35.14 - Trade of electricity","", 440
+, 432, "33.15 - Repair and maintenance of ships and boats","", 427
+, 431, "33.14 - Repair of electrical equipment","", 427
+, 430, "33.13 - Repair of electronic and optical equipment","", 427
+, 429, "33.12 - Repair of machinery","", 427
+, 428, "33.11 - Repair of fabricated metal products","", 427
+, 425, "32.99 - Other manufacturing n.e.c. ","", 423
+, 424, "32.91 - Manufacture of brooms and brushes","", 423
+, 289, "24.51 - Casting of iron","", 288
+, 433, "33.16 - Repair and maintenance of aircraft and spacecraft","", 427
+, 434, "33.17 - Repair and maintenance of other transport equipment","", 427
+, 443, "35.13 - Distribution of electricity","", 440
+, 442, "35.12 - Transmission of electricity","", 440
+, 441, "35.11 - Production of electricity","", 440
+, 285, "24.44 - Copper production","", 281
+, 286, "24.45 - Other non-ferrous metal production","", 281
+, 437, "33.20 - Installation of industrial machinery and equipment","", 436
+, 287, "24.46 - Processing of nuclear fuel ","", 281
+, 435, "33.19 - Repair of other equipment","", 427
+, 422, "32.50 - Manufacture of medical and dental instruments and supplies","", 421
+, 474, "41.10 - Development of building projects","", 473
+, 523, "46.14 - Agents involved in the sale of machinery,  industrial equipment,  ships and aircraft","", 519
+, 510, "45.19 - Sale of other motor vehicles","", 508
+, 509, "45.11 - Sale of cars and light motor vehicles","", 508
+, 263, "23.64 - Manufacture of mortars","", 259
+, 264, "23.65 - Manufacture of fibre cement","", 259
+, 505, "43.99 - Other specialised construction activities n.e.c.","", 503
+, 504, "43.91 - Roofing activities","", 503
+, 265, "23.69 - Manufacture of other articles of concrete,  plaster and cement","", 259
+, 502, "43.39 - Other building completion and finishing","", 497
+, 262, "23.63 - Manufacture of ready-mixed concrete","", 259
+, 512, "45.20 - Maintenance and repair of motor vehicles","", 511
+, 522, "46.13 - Agents involved in the sale of timber and building materials","", 519
+, 521, "46.12 - Agents involved in the sale of fuels,  ores,  metals and industrial chemicals","", 519
+, 520, "46.11 - Agents involved in the sale of agricultural raw materials,  live animals,  textile raw materials and semi-finished goods","", 519
+, 517, "45.40 - Sale,  maintenance and repair of motorcycles and related parts and accessories","", 516
+, 260, "23.61 - Manufacture of concrete products for construction purposes","", 259
+, 515, "45.32 - Retail trade of motor vehicle parts and accessories","", 513
+, 514, "45.31 - Wholesale trade of motor vehicle parts and accessories","", 513
+, 261, "23.62 - Manufacture of plaster products for construction purposes","", 259
+, 501, "43.34 - Painting and glazing","", 497
+, 500, "43.33 - Floor and wall covering","", 497
+, 499, "43.32 - Joinery installation","", 497
+, 269, "23.91 - Production of abrasive products","", 268
+, 484, "42.22 - Construction of utility projects for electricity and telecommunications","", 482
+, 483, "42.21 - Construction of utility projects for fluids","", 482
+, 270, "23.99 - Manufacture of other non-metallic mineral products n.e.c.","", 268
+, 481, "42.13 - Construction of bridges and tunnels","", 478
+, 480, "42.12 - Construction of railways and underground railways","", 478
+, 479, "42.11 - Construction of roads and motorways","", 478
+, 476, "41.20 - Construction of residential and non-residential buildings","", 475
+, 486, "42.91 - Construction of water projects","", 485
+, 487, "42.99 - Construction of other civil engineering projects n.e.c.","", 485
+, 498, "43.31 - Plastering","", 497
+, 496, "43.29 - Other construction installation","", 493
+, 495, "43.22 - Plumbing,  heat and air-conditioning installation","", 493
+, 494, "43.21 - Electrical installation","", 493
+, 267, "23.70 - Cutting,  shaping and finishing of stone","", 266
+, 492, "43.13 - Test drilling and boring","", 489
+, 491, "43.12 - Site preparation","", 489
+, 490, "43.11 - Demolition","", 489
+, 273, "24.10 - Manufacture of basic iron and steel and of ferro-alloys ","", 272
+, 307, "25.61 - Treatment and coating of metals","", 306
+, 358, "28.12 - Manufacture of fluid power equipment","", 356
+, 357, "28.11 - Manufacture of engines and turbines,  except aircraft,  vehicle and cycle engines","", 356
+, 354, "27.90 - Manufacture of other electrical equipment","", 353
+, 310, "25.71 - Manufacture of cutlery","", 309
+, 352, "27.52 - Manufacture of non-electric domestic appliances","", 350
+, 351, "27.51 - Manufacture of electric domestic appliances","", 350
+, 311, "25.72 - Manufacture of locks and hinges","", 309
+, 349, "27.40 - Manufacture of electric lighting equipment","", 348
+, 359, "28.13 - Manufacture of other pumps and compressors","", 356
+, 360, "28.14 - Manufacture of other taps and valves","", 356
+, 368, "28.29 - Manufacture of other general-purpose machinery n.e.c.","", 362
+, 367, "28.25 - Manufacture of non-domestic cooling and ventilation equipment","", 362
+, 366, "28.24 - Manufacture of power-driven hand tools","", 362
+, 365, "28.23 - Manufacture of office machinery and equipment (except computers and peripheral equipment)","", 362
+, 364, "28.22 - Manufacture of lifting and handling equipment","", 362
+, 363, "28.21 - Manufacture of ovens,  furnaces and furnace burners","", 362
+, 308, "25.62 - Machining","", 306
+, 361, "28.15 - Manufacture of bearings,  gears,  gearing and driving elements","", 356
+, 312, "25.73 - Manufacture of tools","", 309
+, 347, "27.33 - Manufacture of wiring devices","", 344
+, 346, "27.32 - Manufacture of other electronic and electric wires and cables","", 344
+, 333, "26.60 - Manufacture of irradiation,  electromedical and electrotherapeutic equipment","", 332
+, 318, "25.99 - Manufacture of other fabricated metal products n.e.c.","", 313
+, 331, "26.52 - Manufacture of watches and clocks","", 329
+, 330, "26.51 - Manufacture of instruments and appliances for measuring,  testing and navigation","", 329
+, 328, "26.40 - Manufacture of consumer electronics","", 327
+, 321, "26.11 - Manufacture of electronic components","", 320
+, 326, "26.30 - Manufacture of communication equipment","", 325
+, 322, "26.12 - Manufacture of loaded electronic boards","", 320
+, 317, "25.94 - Manufacture of fasteners and screw machine products","", 313
+, 335, "26.70 - Manufacture of optical instruments and photographic equipment","", 334
+, 345, "27.31 - Manufacture of fibre optic cables","", 344
+, 343, "27.20 - Manufacture of batteries and accumulators","", 342
+, 314, "25.91 - Manufacture of steel drums and similar containers","", 313
+, 341, "27.12 - Manufacture of electricity distribution and control apparatus","", 339
+, 340, "27.11 - Manufacture of electric motors,  generators and transformers","", 339
+, 315, "25.92 - Manufacture of light metal packaging ","", 313
+, 337, "26.80 - Manufacture of magnetic and optical media","", 336
+, 316, "25.93 - Manufacture of wire products,  chain and springs","", 313
+, 324, "26.20 - Manufacture of computers and peripheral equipment","", 323
+, 370, "28.30 - Manufacture of agricultural and forestry machinery","", 369
+, 290, "24.52 - Casting of steel","", 288
+, 408, "31.03 - Manufacture of mattresses","", 405
+, 407, "31.02 - Manufacture of kitchen furniture","", 405
+, 406, "31.01 - Manufacture of office and shop furniture","", 405
+, 296, "25.12 - Manufacture of doors and windows of metal","", 294
+, 403, "30.99 - Manufacture of other transport equipment n.e.c.","", 400
+, 402, "30.92 - Manufacture of bicycles and invalid carriages","", 400
+, 401, "30.91 - Manufacture of motorcycles","", 400
+, 399, "30.40 - Manufacture of military fighting vehicles","", 398
+, 409, "31.09 - Manufacture of other furniture","", 405
+, 295, "25.11 - Manufacture of metal structures and parts of structures","", 294
+, 420, "32.40 - Manufacture of games and toys","", 419
+, 291, "24.53 - Casting of light metals","", 288
+, 418, "32.30 - Manufacture of sports goods","", 417
+, 292, "24.54 - Casting of other non-ferrous metals","", 288
+, 416, "32.20 - Manufacture of musical instruments","", 415
+, 414, "32.13 - Manufacture of imitation jewellery and related articles","", 411
+, 413, "32.12 - Manufacture of jewellery and related articles","", 411
+, 412, "32.11 - Striking of coins","", 411
+, 298, "25.21 - Manufacture of central heating radiators and boilers","", 297
+, 397, "30.30 - Manufacture of air and spacecraft and related machinery","", 396
+, 299, "25.29 - Manufacture of other tanks,  reservoirs and containers of metal","", 297
+, 380, "28.96 - Manufacture of plastics and rubber machinery","", 374
+, 379, "28.95 - Manufacture of machinery for paper and paperboard production","", 374
+, 378, "28.94 - Manufacture of machinery for textile,  apparel and leather production","", 374
+, 377, "28.93 - Manufacture of machinery for food,  beverage and tobacco processing","", 374
+, 376, "28.92 - Manufacture of machinery for mining,  quarrying and construction","", 374
+, 375, "28.91 - Manufacture of machinery for metallurgy","", 374
+, 305, "25.50 - Forging,  pressing,  stamping and roll-forming of metal; powder metallurgy","", 304
+, 373, "28.49 - Manufacture of other machine tools","", 371
+, 381, "28.99 - Manufacture of other special-purpose machinery n.e.c.","", 374
+, 384, "29.10 - Manufacture of motor vehicles","", 383
+, 395, "30.20 - Manufacture of railway locomotives and rolling stock","", 394
+, 393, "30.12 - Building of pleasure and sporting boats","", 391
+, 392, "30.11 - Building of ships and floating structures","", 391
+, 301, "25.30 - Manufacture of steam generators,  except central heating hot water boilers","", 300
+, 389, "29.32 - Manufacture of other parts and accessories for motor vehicles","", 387
+, 388, "29.31 - Manufacture of electrical and electronic equipment for motor vehicles","", 387
+, 386, "29.20 - Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers","", 385
+, 303, "25.40 - Manufacture of weapons and ammunition","", 302
+, 372, "28.41 - Manufacture of metal forming machinery","", 371
+, 524, "46.15 - Agents involved in the sale of furniture,  household goods,  hardware and ironmongery","", 519
+, 663, "53.10 - Postal activities under universal service obligation","", 662
+, 648, "51.10 - Passenger air transport","", 647
+, 645, "50.40 - Inland freight water transport","", 644
+, 231, "22.11 - Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres","", 230
+, 643, "50.30 - Inland passenger water transport","", 642
+, 232, "22.19 - Manufacture of other rubber products","", 230
+, 641, "50.20 - Sea and coastal freight water transport","", 640
+, 639, "50.10 - Sea and coastal passenger water transport","", 638
+, 234, "22.21 - Manufacture of plastic plates,  sheets,  tubes and profiles","", 233
+, 228, "21.20 - Manufacture of pharmaceutical preparations","", 227
+, 650, "51.21 - Freight air transport","", 649
+, 660, "52.29 - Other transportation support activities ","", 655
+, 659, "52.24 - Cargo handling","", 655
+, 658, "52.23 - Service activities incidental to air transportation","", 655
+, 657, "52.22 - Service activities incidental to water transportation","", 655
+, 656, "52.21 - Service activities incidental to land transportation","", 655
+, 226, "21.10 - Manufacture of basic pharmaceutical products","", 225
+, 654, "52.10 - Warehousing and storage","", 653
+, 651, "51.22 - Space transport","", 649
+, 636, "49.50 - Transport via pipeline","", 635
+, 235, "22.22 - Manufacture of plastic packing goods","", 233
+, 634, "49.42 - Removal services","", 632
+, 621, "47.99 - Other retail sale not in stores,  stalls or markets","", 619
+, 620, "47.91 - Retail sale via mail order houses or via Internet","", 619
+, 242, "23.13 - Manufacture of hollow glass","", 239
+, 618, "47.89 - Retail sale via stalls and markets of other goods","", 615
+, 617, "47.82 - Retail sale via stalls and markets of textiles,  clothing and footwear","", 615
+, 616, "47.81 - Retail sale via stalls and markets of food,  beverages and tobacco products","", 615
+, 243, "23.14 - Manufacture of glass fibres","", 239
+, 614, "47.79 - Retail sale of second-hand goods in stores","", 605
+, 241, "23.12 - Shaping and processing of flat glass","", 239
+, 240, "23.11 - Manufacture of flat glass","", 239
+, 633, "49.41 - Freight transport by road","", 632
+, 236, "22.23 - Manufacture of builders’ ware of plastic","", 233
+, 631, "49.39 - Other passenger land transport n.e.c.","", 628
+, 630, "49.32 - Taxi operation","", 628
+, 629, "49.31 - Urban and suburban passenger land transport","", 628
+, 237, "22.29 - Manufacture of other plastic products","", 233
+, 627, "49.20 - Freight rail transport","", 626
+, 625, "49.10 - Passenger rail transport,  interurban","", 624
+, 613, "47.78 - Other retail sale of new goods in specialised stores","", 605
+, 223, "20.60 - Manufacture of man-made fibres","", 222
+, 716, "61.90 - Other telecommunications activities","", 715
+, 702, "59.20 - Sound recording and music publishing activities","", 701
+, 211, "20.20 - Manufacture of pesticides and other agrochemical products","", 210
+, 700, "59.14 - Motion picture projection activities","", 696
+, 699, "59.13 - Motion picture,  video and television programme distribution activities","", 696
+, 698, "59.12 - Motion picture,  video and television programme post-production activities","", 696
+, 697, "59.11 - Motion picture,  video and television programme production activities","", 696
+, 694, "58.29 - Other software publishing","", 692
+, 693, "58.21 - Publishing of computer games","", 692
+, 705, "60.10 - Radio broadcasting","", 704
+, 209, "20.17 - Manufacture of synthetic rubber in primary forms","", 202
+, 205, "20.13 - Manufacture of other inorganic basic chemicals","", 202
+, 714, "61.30 - Satellite telecommunications activities","", 713
+, 206, "20.14 - Manufacture of other organic basic chemicals","", 202
+, 712, "61.20 - Wireless telecommunications activities","", 711
+, 207, "20.15 - Manufacture of fertilisers and nitrogen compounds","", 202
+, 710, "61.10 - Wired telecommunications activities","", 709
+, 208, "20.16 - Manufacture of plastics in primary forms","", 202
+, 707, "60.20 - Television programming and broadcasting activities","", 706
+, 213, "20.30 - Manufacture of paints,  varnishes and similar coatings,  printing ink and mastics","", 212
+, 691, "58.19 - Other publishing activities","", 686
+, 690, "58.14 - Publishing of journals and periodicals","", 686
+, 675, "55.90 - Other accommodation","", 674
+, 219, "20.52 - Manufacture of glues","", 217
+, 673, "55.30 - Camping grounds,  recreational vehicle parks and trailer parks","", 672
+, 541, "46.37 - Wholesale of coffee,  tea,  cocoa and spices","", 534
+, 671, "55.20 - Holiday and other short-stay accommodation","", 670
+, 220, "20.53 - Manufacture of essential oils","", 217
+, 669, "55.10 - Hotels and similar accommodation","", 668
+, 221, "20.59 - Manufacture of other chemical products n.e.c.","", 217
+, 218, "20.51 - Manufacture of explosives","", 217
+, 678, "56.10 - Restaurants and mobile food service activities","", 677
+, 689, "58.13 - Publishing of newspapers","", 686
+, 688, "58.12 - Publishing of directories and mailing lists","", 686
+, 687, "58.11 - Book publishing","", 686
+, 215, "20.41 - Manufacture of soap and detergents,  cleaning and polishing preparations","", 214
+, 683, "56.30 - Beverage serving activities","", 682
+, 216, "20.42 - Manufacture of perfumes and toilet preparations","", 214
+, 681, "56.29 - Other food service activities","", 679
+, 680, "56.21 - Event catering activities","", 679
+, 665, "53.20 - Other postal and courier activities","", 664
+, 566, "46.71 - Wholesale of solid,  liquid and gaseous fuels and related products","", 565
+, 555, "46.51 - Wholesale of computers,  computer peripheral equipment and software","", 554
+, 254, "23.44 - Manufacture of other technical ceramic products","", 250
+, 553, "46.49 - Wholesale of other household goods","", 544
+, 552, "46.48 - Wholesale of watches and jewellery","", 544
+, 551, "46.47 - Wholesale of furniture,  carpets and lighting equipment","", 544
+, 550, "46.46 - Wholesale of pharmaceutical goods","", 544
+, 549, "46.45 - Wholesale of perfume and cosmetics","", 544
+, 548, "46.44 - Wholesale of china and glassware and cleaning materials","", 544
+, 556, "46.52 - Wholesale of electronic and telecommunications equipment and parts","", 554
+, 253, "23.43 - Manufacture of ceramic insulators and insulating fittings","", 250
+, 252, "23.42 - Manufacture of ceramic sanitary fixtures","", 250
+, 564, "46.69 - Wholesale of other machinery and equipment","", 557
+, 563, "46.66 - Wholesale of other office machinery and equipment","", 557
+, 562, "46.65 - Wholesale of office furniture","", 557
+, 561, "46.64 - Wholesale of machinery for the textile industry and of sewing and knitting machines","", 557
+, 560, "46.63 - Wholesale of mining,  construction and civil engineering machinery","", 557
+, 559, "46.62 - Wholesale of machine tools","", 557
+, 558, "46.61 - Wholesale of agricultural machinery,  equipment and supplies","", 557
+, 547, "46.43 - Wholesale of electrical household appliances","", 544
+, 546, "46.42 - Wholesale of clothing and footwear","", 544
+, 545, "46.41 - Wholesale of textiles","", 544
+, 533, "46.24 - Wholesale of hides,  skins and leather","", 529
+, 532, "46.23 - Wholesale of live animals","", 529
+, 531, "46.22 - Wholesale of flowers and plants","", 529
+, 530, "46.21 - Wholesale of grain,  unmanufactured tobacco,  seeds and animal feeds","", 529
+, 258, "23.52 - Manufacture of lime and plaster","", 256
+, 528, "46.19 - Agents involved in the sale of a variety of goods","", 519
+, 527, "46.18 - Agents specialised in the sale of other particular products","", 519
+, 526, "46.17 - Agents involved in the sale of food,  beverages and tobacco","", 519
+, 257, "23.51 - Manufacture of cement","", 256
+, 535, "46.31 - Wholesale of fruit and vegetables","", 534
+, 255, "23.49 - Manufacture of other ceramic products","", 250
+, 543, "46.39 - Non-specialised wholesale of food,  beverages and tobacco","", 534
+, 542, "46.38 - Wholesale of other food,  including fish,  crustaceans and molluscs","", 534
+, 540, "46.36 - Wholesale of sugar and chocolate and sugar confectionery","", 534
+, 539, "46.35 - Wholesale of tobacco products","", 534
+, 538, "46.34 - Wholesale of beverages","", 534
+, 537, "46.33 - Wholesale of dairy products,  eggs and edible oils and fats","", 534
+, 536, "46.32 - Wholesale of meat and meat products","", 534
+, 525, "46.16 - Agents involved in the sale of textiles,  clothing,  fur,  footwear and leather goods","", 519
+, 567, "46.72 - Wholesale of metals and metal ores","", 565
+, 612, "47.77 - Retail sale of watches and jewellery in specialised stores","", 605
+, 601, "47.62 - Retail sale of newspapers and stationery in specialised stores","", 599
+, 600, "47.61 - Retail sale of books in specialised stores","", 599
+, 598, "47.59 - Retail sale of furniture,  lighting equipment and other household articles in specialised stores","", 593
+, 597, "47.54 - Retail sale of electrical household appliances in specialised stores","", 593
+, 596, "47.53 - Retail sale of carpets,  rugs,  wall and floor coverings in specialised stores","", 593
+, 595, "47.52 - Retail sale of hardware,  paints and glass in specialised stores","", 593
+, 594, "47.51 - Retail sale of textiles in specialised stores","", 593
+, 246, "23.20 - Manufacture of refractory products","", 245
+, 602, "47.63 - Retail sale of music and video recordings in specialised stores","", 599
+, 603, "47.64 - Retail sale of sporting equipment in specialised stores","", 599
+, 611, "47.76 - Retail sale of flowers,  plants,  seeds,  fertilisers,  pet animals and pet food in specialised stores","", 605
+, 610, "47.75 - Retail sale of cosmetic and toilet articles in specialised stores","", 605
+, 609, "47.74 - Retail sale of medical and orthopaedic goods in specialised stores","", 605
+, 608, "47.73 - Dispensing chemist in specialised stores","", 605
+, 607, "47.72 - Retail sale of footwear and leather goods in specialised stores","", 605
+, 606, "47.71 - Retail sale of clothing in specialised stores","", 605
+, 244, "23.19 - Manufacture and processing of other glass,  including technical glassware","", 239
+, 604, "47.65 - Retail sale of games and toys in specialised stores","", 599
+, 592, "47.43 - Retail sale of audio and video equipment in specialised stores","", 589
+, 591, "47.42 - Retail sale of telecommunications equipment in specialised stores","", 589
+, 590, "47.41 - Retail sale of computers,  peripheral units and software in specialised stores","", 589
+, 578, "47.19 - Other retail sale in non-specialised stores","", 576
+, 577, "47.11 - Retail sale in non-specialised stores with food,  beverages or tobacco predominating","", 576
+, 574, "46.90 - Non-specialised wholesale trade","", 573
+, 251, "23.41 - Manufacture of ceramic household and ornamental articles","", 250
+, 572, "46.77 - Wholesale of waste and scrap","", 565
+, 571, "46.76 - Wholesale of other intermediate products","", 565
+, 570, "46.75 - Wholesale of chemical products","", 565
+, 569, "46.74 - Wholesale of hardware,  plumbing and heating equipment and supplies","", 565
+, 249, "23.32 - Manufacture of bricks,  tiles and construction products,  in baked clay","", 247
+, 580, "47.21 - Retail sale of fruit and vegetables in specialised stores","", 579
+, 588, "47.30 - Retail sale of automotive fuel in specialised stores","", 587
+, 248, "23.31 - Manufacture of ceramic tiles and flags","", 247
+, 586, "47.29 - Other retail sale of food in specialised stores","", 579
+, 585, "47.26 - Retail sale of tobacco products in specialised stores","", 579
+, 584, "47.25 - Retail sale of beverages in specialised stores","", 579
+, 583, "47.24 - Retail sale of bread,  cakes,  flour confectionery and sugar confectionery in specialised stores","", 579
+, 582, "47.23 - Retail sale of fish,  crustaceans and molluscs in specialised stores","", 579
+, 581, "47.22 - Retail sale of meat and meat products in specialised stores","", 579
+, 568, "46.73 - Wholesale of wood,  construction materials and sanitary equipment","", 565
